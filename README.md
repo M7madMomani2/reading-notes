@@ -5,7 +5,9 @@
 # let's take a tour with some pages
 
 
-![I3](https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/site/5287/images/Kodgt3keQRSE2WUPPUGb_201.jpg)
+![I2](https://external-preview.redd.it/TtvvGviy25Kg_Z4SchFRUCdUGL8aukkM-vLPkV2qynU.png?auto=webp&s=66ba75dcc87d35738be1cb26ec1359029531ce21)
+
+
 ## 201
 
 Name | URL
