@@ -22,10 +22,10 @@
 ![I3](https://cdn03.boxcdn.net/sites/default/files/box_default_og_sharing_image/box-social.jpg)
 
 ## Part Of Box:
-> -Content - The content of the box, where text and images appear
-> -Padding - Clears an area around the content. The padding is transparent
-> -Border - A border that goes around the padding and content
-> -Margin - Clears an area outside the border. The margin is transparent
+> - Content : The content of the box, where text and images appear
+> - Padding : Clears an area around the content. The padding is transparent
+> - Border : A border that goes around the padding and content
+> - Margin : Clears an area outside the border. The margin is transparent
 
 ## More About Box 
 > - CSS treats each HTML element as if it has its own box.
