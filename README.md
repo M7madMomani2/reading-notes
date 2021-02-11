@@ -14,10 +14,10 @@ Name | URL
 ------------ | -------------
 class-01 | [class01](https://m7madmomani2.github.io/reading-notes2/class-01)
 class-02 | [class-02](https://m7madmomani2.github.io/reading-notes2/class-02)
-class-01 | [class-03](https://m7madmomani2.github.io/reading-notes2/class-03)
-4 | 4
-5 | 5
-6 | 6
+class-03 | [class-03](https://m7madmomani2.github.io/reading-notes2/class-03)
+class-04 | 4
+class-05 | [class-05](https://m7madmomani2.github.io/reading-notes2/class-05)
+
 
 
 
