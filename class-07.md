@@ -1,7 +1,8 @@
 
 
 # Tabel 
-![I2](http://softlect.in/wp-content/uploads/HTML/HTML-Table-Tags-1024x640.png)
+
+![I2](https://miro.medium.com/max/2560/1*UgO6iCfWdpW9KlFmBgfnNA.jpeg)
 
 > - The < table> element is used to add tables to a web page.
 > - A table is drawn out row by row. Each row is created with the < tr> element.
