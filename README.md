@@ -18,6 +18,8 @@ class-03 | [class-03](https://m7madmomani2.github.io/reading-notes2/class-03)
 class-04 | [class-04](https://m7madmomani2.github.io/reading-notes2/class-04)
 class-05 | [class-05](https://m7madmomani2.github.io/reading-notes2/class-05)
 class-06 | [class-06](https://m7madmomani2.github.io/reading-notes2/class-06)
+class-07 | [class-07](https://m7madmomani2.github.io/reading-notes2/class-07)
+
 
 
 
