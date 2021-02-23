@@ -25,6 +25,8 @@ class-10 | [class-10](https://m7madmomani2.github.io/reading-notes2/class-10)
 class-11 | [class-11](https://m7madmomani2.github.io/reading-notes2/class-11)
 class-12 | [class-12](https://m7madmomani2.github.io/reading-notes2/class-12)
 class-13 | [class-13](https://m7madmomani2.github.io/reading-notes2/class-13)
+class-14 | [class-14](https://m7madmomani2.github.io/reading-notes2/class-14)
+class-15 | [class-15](https://m7madmomani2.github.io/reading-notes2/class-15)
 
 
 
