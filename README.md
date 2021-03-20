@@ -51,7 +51,7 @@ class-15 | [class-15](https://m7madmomani2.github.io/reading-notes2/class-15)
 
 Name | URL
 ------------ | -------------
-class-01 | [class01]()
+class-01 | [class01](https://m7madmomani2.github.io/reading-notes2/class301)
 class-02 | [class-02]()
 class-03 | [class-03]()
 class-04 | [class-04]()
