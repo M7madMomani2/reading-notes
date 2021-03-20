@@ -28,22 +28,21 @@ CSS | [CSS](https://m7madmomani.github.io/reading-notes/CSS_note)
 
 Name | URL
 ------------ | -------------
-class-01 | [class01](https://m7madmomani2.github.io/reading-notes2/class-01)
-class-02 | [class-02](https://m7madmomani2.github.io/reading-notes2/class-02)
-class-03 | [class-03](https://m7madmomani2.github.io/reading-notes2/class-03)
-class-04 | [class-04](https://m7madmomani2.github.io/reading-notes2/class-04)
-class-05 | [class-05](https://m7madmomani2.github.io/reading-notes2/class-05)
-class-06 | [class-06](https://m7madmomani2.github.io/reading-notes2/class-06)
-class-07 | [class-07](https://m7madmomani2.github.io/reading-notes2/class-07)
-class-08 | [class-08](https://m7madmomani2.github.io/reading-notes2/class-08)
-class-09 | [class-09](https://m7madmomani2.github.io/reading-notes2/class-09)
-class-10 | [class-10](https://m7madmomani2.github.io/reading-notes2/class-10)
-class-11 | [class-11](https://m7madmomani2.github.io/reading-notes2/class-11)
-class-12 | [class-12](https://m7madmomani2.github.io/reading-notes2/class-12)
-class-13 | [class-13](https://m7madmomani2.github.io/reading-notes2/class-13)
-class-14 | [class-14](https://m7madmomani2.github.io/reading-notes2/class-14)
-class-15 | [class-15](https://m7madmomani2.github.io/reading-notes2/class-15)
-
+Read : 01 | [Read-01](https://m7madmomani2.github.io/reading-notes2/code-201/class-01)
+Read : 02 | [Read-02](https://m7madmomani2.github.io/reading-notes2/code-201/class-02)
+Read : 03 | [Read-03](https://m7madmomani2.github.io/reading-notes2/code-201/class-03)
+Read : 04 | [Read-04](https://m7madmomani2.github.io/reading-notes2/code-201/class-04)
+Read : 05 | [Read-05](https://m7madmomani2.github.io/reading-notes2/code-201/class-05)
+Read : 06 | [Read-06](https://m7madmomani2.github.io/reading-notes2/code-201/class-06)
+Read : 07 | [Read-07](https://m7madmomani2.github.io/reading-notes2/code-201/class-07)
+Read : 08 | [Read-08](https://m7madmomani2.github.io/reading-notes2/code-201/class-08)
+Read : 09 | [Read-09](https://m7madmomani2.github.io/reading-notes2/code-201/class-09)
+Read : 10 | [Read-10](https://m7madmomani2.github.io/reading-notes2/code-201/class-10)
+Read : 11 | [Read-11](https://m7madmomani2.github.io/reading-notes2/code-201/class-11)
+Read : 12 | [Read-12](https://m7madmomani2.github.io/reading-notes2/code-201/class-12)
+Read : 13 | [Read-13](https://m7madmomani2.github.io/reading-notes2/code-201/class-13)
+Read : 14 | [Read-14](https://m7madmomani2.github.io/reading-notes2/code-201/class-14)
+Read : 15 | [Read-15](https://m7madmomani2.github.io/reading-notes2/code-201/class-15)
 
 
 ![I3](https://www.omdream.com/wp-content/uploads/301-redireccion.jpg)
@@ -52,7 +51,7 @@ class-15 | [class-15](https://m7madmomani2.github.io/reading-notes2/class-15)
 
 Number | Link
 ------------ | -------------
-Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/class301) 
+Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/code-301/class301) 
 Read : 02 | [jQuery, Events, and The DOM](class-02.md)
 Read : 03 | [Flexbox and Templating](class-03.md)
 Read : 04 | [Responsive Web Design and Regular Expressions](class-04.md)
