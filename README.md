@@ -47,25 +47,26 @@ class-15 | [class-15](https://m7madmomani2.github.io/reading-notes2/class-15)
 
 
 ![I3](https://www.omdream.com/wp-content/uploads/301-redireccion.jpg)
+
 ## 301
 
-Name | URL
+Number | Link
 ------------ | -------------
-class-01 | [class01](https://m7madmomani2.github.io/reading-notes2/class301)
-class-02 | [class-02]()
-class-03 | [class-03]()
-class-04 | [class-04]()
-class-05 | [class-05]()
-class-06 | [class-06]()
-class-07 | [class-07]()
-class-08 | [class-08]()
-class-09 | [class-09]()
-class-10 | [class-10]()
-class-11 | [class-11]()
-class-12 | [class-12]()
-class-13 | [class-13]()
-class-14 | [class-14]()
-class-15 | [class-15]()
+Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/class301) 
+Read : 02 | [jQuery, Events, and The DOM](class-02.md)
+Read : 03 | [Flexbox and Templating](class-03.md)
+Read : 04 | [Responsive Web Design and Regular Expressions](class-04.md)
+Read : 05 | [Heroku Deployment](class-05.md)
+Read : 06 | [Node, Express, and APIs](class-06.md)
+Read : 07 | [APIs continued](class-07.md)
+Read : 08 | [SQL](class-08.md)
+Read : 09 | [Refactoring](class-09.md)
+Read : 10 | [The Call Stack and Debugging](class-10.md)
+Read : 11 | [EJS](class-11.md)
+Read : 12 | [Components](class-12.md)
+Read : 13 | [Update/Delete](class-13.md)
+Read : 14 | [DB Normalization](class-14.md)
+Read : 15 | [Diversity and Inclusion](class-15.md)
 
 
 
