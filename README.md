@@ -52,7 +52,7 @@ Read : 15 | [Read-15](https://m7madmomani2.github.io/reading-notes2/code-201/cla
 Number | Link
 ------------ | -------------
 Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/code-301/class301) 
-Read : 02 | [jQuery, Events, and The DOM](class-02.md)
+Read : 02 | [jQuery, Events, and The DOM](https://m7madmomani2.github.io/reading-notes2/code-301/class2)
 Read : 03 | [Flexbox and Templating](class-03.md)
 Read : 04 | [Responsive Web Design and Regular Expressions](class-04.md)
 Read : 05 | [Heroku Deployment](class-05.md)
