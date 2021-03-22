@@ -18,9 +18,9 @@
 
 ## Why Use Flexbox?
 >  Flexbox let it more flexible for a developer to positioning items in a container with the minimum of code.
-
+ # some ues :-
 ![Image](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
 
 ![Image](https://css-tricks.com/wp-content/uploads/2018/10/align-self.svg)
 
-![Image](code-301/img/Screenshot (359).png)
+![Image](img/Screenshot (359).png)
