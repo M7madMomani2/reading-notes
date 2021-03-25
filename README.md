@@ -55,7 +55,7 @@ Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/re
 Read : 02 | [jQuery, Events, and The DOM](https://m7madmomani2.github.io/reading-notes2/code-301/class2)
 Read : 03 | [Flexbox and Templating](https://m7madmomani2.github.io/reading-notes2/code-301/class3)
 Read : 04 | [Responsive Web Design and Regular Expressions](https://m7madmomani2.github.io/reading-notes2/code-301/class4)
-Read : 05 | [Heroku Deployment](class-05.md)
+Read : 05 | [Heroku Deployment](https://m7madmomani2.github.io/reading-notes2/code-301/class5)
 Read : 06 | [Node, Express, and APIs](class-06.md)
 Read : 07 | [APIs continued](class-07.md)
 Read : 08 | [SQL](class-08.md)
