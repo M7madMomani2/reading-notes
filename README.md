@@ -60,7 +60,7 @@ Read : 06 | [Node, Express, and APIs](https://m7madmomani2.github.io/reading-not
 Read : 07 | [APIs continued](https://m7madmomani2.github.io/reading-notes2/code-301/class7)
 Read : 08 | [SQL](https://m7madmomani2.github.io/reading-notes2/code-301/class8)
 Read : 09 | [Refactoring](https://m7madmomani2.github.io/reading-notes2/code-301/class9)
-Read : 10 | [The Call Stack and Debugging](class-10.md)
+Read : 10 | [The Call Stack and Debugging](https://m7madmomani2.github.io/reading-notes2/code-301/class10)
 Read : 11 | [EJS](class-11.md)
 Read : 12 | [Components](class-12.md)
 Read : 13 | [Update/Delete](class-13.md)
