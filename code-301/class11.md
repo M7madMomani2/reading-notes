@@ -1,5 +1,6 @@
 # EJS
-![Image](https://cdn-images-1.medium.com/fit/t/1600/480/1*erMDckiFM58I-fh2ZA4Lsw.jpeg)
+
+![Image](https://www.geeksread.com/wp-content/uploads/2018/06/EJS-Conditionals-and-Loops.png)
 
 ## What is EJS?
 > -  What is the "E" for? "Embedded?" Could be. How about "Effective," "Elegant," or just "Easy"? EJS is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript.
@@ -13,7 +14,7 @@
 > - Easy debugging
 > - Active development
 > 
-![Image](https://www.geeksread.com/wp-content/uploads/2018/06/EJS-Conditionals-and-Loops.png)
+![Image](https://cdn-images-1.medium.com/fit/t/1600/480/1*erMDckiFM58I-fh2ZA4Lsw.jpeg)
 
 ## Tags:-
 > - <% ‘Scriptlet’ tag, for control-flow, no output.
