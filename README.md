@@ -61,11 +61,11 @@ Read : 07 | [APIs continued](https://m7madmomani2.github.io/reading-notes2/code-
 Read : 08 | [SQL](https://m7madmomani2.github.io/reading-notes2/code-301/class8)
 Read : 09 | [Refactoring](https://m7madmomani2.github.io/reading-notes2/code-301/class9)
 Read : 10 | [The Call Stack and Debugging](https://m7madmomani2.github.io/reading-notes2/code-301/class10)
-Read : 11 | [EJS](class-11.md)
-Read : 12 | [Components](class-12.md)
-Read : 13 | [Update/Delete](class-13.md)
-Read : 14 | [DB Normalization](class-14.md)
-Read : 15 | [Diversity and Inclusion](class-15.md)
+Read : 11 | [EJS](https://m7madmomani2.github.io/reading-notes2/code-301/class11)
+Read : 12 | [Components](https://m7madmomani2.github.io/reading-notes2/code-301/class12)
+Read : 13 | [Update/Delete](https://m7madmomani2.github.io/reading-notes2/code-301/class13)
+Read : 14 | [DB Normalization](https://m7madmomani2.github.io/reading-notes2/code-301/class14)
+Read : 15 | [Diversity and Inclusion](https://m7madmomani2.github.io/reading-notes2/code-301/class15)
 
 
 
