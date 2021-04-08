@@ -1,22 +1,25 @@
-# DB Normalization
+# Diversity & Inclusion in the Tech Industry
 
-![Image](https://cdn.mindmajix.com/blog/images/normalization-and-t-sql-in-sql-server-280120.png)
+![Image](https://cdn.dvidshub.net/media/thumbs/photos/2008/6308814/1000w_q95.jpg)
 
 
-> - Database normalization is a process used to organize a database into tables and columns. The main idea with this is that a table should be about a specific topic and only supporting topics included
+> - “Diverse groups of people bring to organizations more and different ways of seeing a problem and, thus, faster/better ways of solving it.”
 
-## Reasons for Database Normalization
-> -  There are three main reasons to normalize a database. The first is to minimize duplicate data, the second is to minimize or avoid data modification issues, and the third is to simplify queries.
+> -  Diverse companies perform betterIn a 2011 study of diversity in the top firms in Standard & Poor's Composite 1500 list, researchers found female representation in top management leads to an increase of $42 million in firm value.
 
-## Insert Anomaly
+## The benefits of diversity in tech.
 
-> - There are facts we cannot record until we know information for the entire row. so in order to create the record, we need provide a primary key.
+> - Greater innovation.
+> - Having a team from different backgrounds with different skills and experiences means the ideas generated will be diverse. Essentially, it is beneficial to play on every worker's strengths to provide innovation in your workforce.
+> - Diverse teams perform better.
+> - Can attract and retain talent
 
-## Deletion Anomaly
-
-> - Deletion of a row causes removal of more than one set of facts.
-
-## Search and Sort Issues
-> - You can eliminate or reduce the issues of sorting and searching anomalies by separating the data into different tables. This puts the data into tables serving a single purpose.
-
-> - The process to redesign the table is database normalization.
+## Ways to improve gender diversity and equality in this industry.
+> - Educate schools about tech.
+> - Mentor young women.
+> - Share data with everyone.
+> - forget bias in companies.
+> - Encourage women to seek sponsors.
+> - Focus on mid-level positions.
+> - Provide proper childcare.
+> - Drive awareness of tech roles
