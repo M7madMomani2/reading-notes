@@ -51,7 +51,7 @@ Read : 15 | [Read-15](https://m7madmomani2.github.io/reading-notes2/code-201/cla
 
 Number | Link
 ------------ | -------------
-Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/code-301/class301) 
+Read : 01 | [SMACSS and Responsive Web Design](https://m7madmomani2.github.io/reading-notes2/code-301/class1) 
 Read : 02 | [jQuery, Events, and The DOM](https://m7madmomani2.github.io/reading-notes2/code-301/class2)
 Read : 03 | [Flexbox and Templating](https://m7madmomani2.github.io/reading-notes2/code-301/class3)
 Read : 04 | [Responsive Web Design and Regular Expressions](https://m7madmomani2.github.io/reading-notes2/code-301/class4)
@@ -66,6 +66,28 @@ Read : 12 | [Components](https://m7madmomani2.github.io/reading-notes2/code-301/
 Read : 13 | [Update/Delete](https://m7madmomani2.github.io/reading-notes2/code-301/class13)
 Read : 14 | [DB Normalization](https://m7madmomani2.github.io/reading-notes2/code-301/class14)
 Read : 15 | [Diversity and Inclusion](https://m7madmomani2.github.io/reading-notes2/code-301/class15)
+
+
+![I3](https://cdn.shopify.com/s/files/1/2374/6531/files/401_Logo_Final-02.png?height=628&pad_color=62c0bf&v=1572444567&width=1200)
+
+
+## 401
+
+Number | Link
+------------ | -------------
+Read : 01 | [Topic](https://m7madmomani2.github.io/reading-notes2/code-401/class1)
+Read : 02 | [Testing and Modules](https://m7madmomani2.github.io/reading-notes2/code-401/class2)
+Read : 03 | [FileIO & Exceptions](https://m7madmomani2.github.io/reading-notes2/code-401/class3)
+Read : 04 | [Classes and Objects](https://m7madmomani2.github.io/reading-notes2/code-401/class4)
+Read : 05 | [Linked Lists](https://m7madmomani2.github.io/reading-notes2/code-401/class5)
+Read : 06 | [Random Module](https://m7madmomani2.github.io/reading-notes2/code-401/class6)
+Read : 07 | [Python Scope](https://m7madmomani2.github.io/reading-notes2/code-401/class7)
+Read : 08 | [List Comprehensions](https://m7madmomani2.github.io/reading-notes2/code-401/class8)
+Read : 09 | [Dunder Methods](https://m7madmomani2.github.io/reading-notes2/code-401/class9)
+
+
+
+
 
 
 
