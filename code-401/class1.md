@@ -16,12 +16,3 @@
 > - O(2N) denotes an algorithm whose growth doubles with each additon to the input data set.
 
 
-
-
-![Image](https://files.realpython.com/media/How-to-Do-a-Binary-Search-in-Python_Watermarked.e06f21f5a58b.jpg)
-
-## Logarithms
-
-> **Binary search** is a technique used to search sorted data sets.
-
-It selects the middle value and goes towards the wanted value, Then do the same repeatedly till it finds the target
