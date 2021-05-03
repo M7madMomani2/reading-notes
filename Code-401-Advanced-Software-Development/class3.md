@@ -1,26 +1,31 @@
-# Flexbox
-## What is Flexbox ?
-> - The main idea behind the flex layout is to give the container the ability to alter its items’ width/height (and order) to best fill the available space (mostly to accommodate to all kind of display devices and screen sizes). A flex container expands items to fill available free space or shrinks them to prevent overflow.
+# **FileIO & Exceptions**
 
-> - Most importantly, the flexbox layout is direction-agnostic as opposed to the regular layouts (block which is vertically-based and inline which is horizontally-based). While those work well for pages, they lack flexibility (no pun intended) to support large or complex applications (especially when it comes to orientation changing, resizing, stretching, shrinking, etc.).
+![Image](https://www.canto.com/images/orphan/File-Management.jpg)
 
-![Image](https://oracle-patches.com/images/2019/11/09/flexbox-css_large.jpg)
+## **What Is a File?**
+>  At its core, a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable. In the end, these byte files are then translated into binary 1 and 0 for easier processing by the computer.
 
-## The flex container properties are:
+## it consist of three main parts:
 
-> - flex-direction
-> - flex-wrap
-> - flex-flow
-> - justify-content
-> - align-items
-> - align-content
+**Header:** metadata about the contents of the file (file name, size, type, and so on)
+
+**Data:** contents of the file as written by the creator or editor
+
+**End of file (EOF):** special character that indicates the end of the file
+
+## **Reading Files**
+![Image](https://www.netclipart.com/pp/m/145-1457211_gopher-png-source-https-github-gopher-gopher-svg.png)
 
 
-## Why Use Flexbox?
->  Flexbox let it more flexible for a developer to positioning items in a container with the minimum of code.
- # some ues :-
-![Image](https://css-tricks.com/wp-content/uploads/2018/10/justify-content.svg)
+> These are the methods used in reading files
+> - `.read(size=-1)` :  reads from the file based on the number of size bytes, if the value less than 0 or not entered it will read the whole file 
+> - `.readline(size=-1)`: same as the above but for the lines 
+> - `.readlines()` :  reads the rest of the lines and return them as a list 
 
-![Image](https://css-tricks.com/wp-content/uploads/2018/10/align-self.svg)
 
-![Image](img/Screenshot (359).png)
+## **Writing Files**
+
+> These are the methods used in writing files
+  > - `.write(string)`  :  This writes the string to the file. 
+  > - `.writelines(seq)` :  This writes the sequence to the file. No line endings are appended to each sequence item. It’s up to you 
+
