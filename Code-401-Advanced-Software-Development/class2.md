@@ -1,33 +1,45 @@
-# jQuery
-## What is jQuery?
-> jQuery is a DOM manipulation library that essentially helps us do many JavaScript tasks much faster and more simply.
+# Testing and Modules
+![Image](https://www.xenonstack.com/images/blog/Test-Driven-Development-Python.png)
+##  In Tests We Trust — TDD with Python
+> - TDD means Test-driven development which means the kind of development were you stick lots of step by step tests called unit tests
 
-![Image](https://www.magesolution.com/blog/wp-content/uploads/2014/01/what-is-jquery-11.png)
-
-## jQuery methods for:
-
-> - Selecting/Manipulating/Creating Elements
-> - Adding Event Listeners
-> - Animating Elements
-> - Adding Effects
-> - Making HTTP Requests (AJAX)
+> - Unit tests are some pieces of code to exercise the input, the output and the behaviour of your code. You can write them anytime you want.
 
 
-## Why Use jQuery?
-> - It’s easy to learn and use
-> - Makes DOM manipulation a breeze
-> - Has cross-browser support
-> - Working with AJAX is easy
-> - Lots of knowledge out there if you need help
+> - The greatest advantage about TDD is to craft the software design first
 
-![Image](https://www.freetutorialsplus.com/jquery-tutorial/images/jquery-illustration.png)
+> - Your code will be more reliable: after a change you can run your tests and be in peace
 
-## conclusion
-> - jQuery is a JavaScript file you include in your pages. 
-> - Once included, it makes it faster and easier to write cross-browser JavaScript, based on two steps: 
-  * Using CSS-style selectors to collect one or more nodes from the DOM tree. 
-  * Using jQuery's built-in methods to work with the elements in that selection. 
-> - jQuery's CSS-style selector syntax makes it easier to select elements to work with. It also has methods that  make it easier to traverse the DOM. 
-> - jQuery makes it easier to handle events because the event methods work across all browsers. 
-> - jQuery offers methods that make it quick and simple to achieve a range of tasks that JavaScript programmers commonly need to perform.
 
+
+
+
+
+
+
+## Recursion
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--BWDV0wtG--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/226xc0p9pgtgadnin92j.jpeg)
+
+
+
+### What is Recursion
+
+> The process in which a function calls itself directly or indirectly
+
+### base condition in recursion
+
+the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
+
+### particular problem is solved using recursion
+
+represent a problem in smaller problems, and add conditions that stop the recursion.
+
+
+
+### The difference between direct and indirect recursion
+
+> - It is called direct when the function calls itself within it , And it is called indirect when the function calles another new functions that calls the same function again
+
+> - The recursive program has greater space requirements than iterative program as all functions will remain in the stack until the base case is reached. 
+
+> - Recursion provides a clean and simple way to write code.
