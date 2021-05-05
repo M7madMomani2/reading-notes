@@ -1,23 +1,27 @@
-# Grid
-## What is Grid ?
-> - CSS Grid Layout (aka “Grid”), is a two-dimensional grid-based layout system that aims to do nothing less than completely change the way we design grid-based user interfaces. CSS has always been used to lay out our web pages, but it’s never done a very good job of it. First, we used tables, then floats, positioning and inline-block, but all of these methods were essentially hacks and left out a lot of important functionality (vertical centering, for instance). Flexbox helped out, but it’s intended for simpler one-dimensional layouts, not complex two-dimensional ones (Flexbox and Grid actually work very well together).
+# Classes and Objects
 
-> - Grid is the very first CSS module created specifically to solve the layout problems we’ve all been hacking our way around for as long as we’ve been making websites.
+![Image](https://www.gangboard.com/wp-content/uploads/2019/05/python-class-and-object.jpg)
 
+> - Objects are an encapsulation of variables and functions into a single entity. Objects get their variables and functions from classes. Classes are essentially a template to create your objects.
 
-![Image](https://miro.medium.com/max/5000/1*WlgR2CCBnGQcvav_4ACvUQ.png)
-
-## The grid property is a shorthand property for:
-
-> - grid-template-rows
-> - grid-template-columns
-> - grid-template-areas
-> - grid-auto-rows
-> - grid-auto-columns
-> - grid-auto-flow
+## Accessing Object Functions
+> - To access a function inside of an object you use notation similar to accessing a variable
 
 
 
-![Image](https://cdn-media-1.freecodecamp.org/images/Bji3J37rICTz6Njcts4IL6ejCB-Z4Usg6DkH)
+![Image](https://files.realpython.com/media/Thinking-Recursively-in-Python_Watermarked.1825397c00ea.jpg)
+## Recursive Functions in Python
+### What is Recursion?
 
-![Image](https://lh3.googleusercontent.com/proxy/fgZbd7sAtynYRh7QQBnn_egFEHKWtE0ncowzFRItxsLrLkYA46-lN_-KgPsl0o0sakgvU6nvbMBw0UEPn1diwZxwUI3HfsA-Dg9D36f1btNlvCH_wrY)
+> The process in which a function calls itself directly or indirectly
+
+### base condition in recursion
+the solution to the base case is provided and the solution of the bigger problem is expressed in terms of smaller problems.
+
+## Maintaining State
+
+> - When dealing with recursive functions, keep in mind that each recursive call has its own execution context, so to maintain state during recursion you have to either:
+
+> - Thread the state through each recursive call so that the current state is part of the current call’s execution context Keep the state in global scope
+
+
