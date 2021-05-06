@@ -1,30 +1,15 @@
-# Node.js and Heroku
-
-![Image](https://miro.medium.com/max/1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg)
-## What is Node.js ?
-> - Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
-> - Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
-
-> - Express: It provides one of the most simple yet powerful ways to create a web server. Its minimalist approach, unopinionated, focused on the core features of a server, is key to its success.
+# Linked List
+> - A Linked List is a sequence of Nodes that are connected/linked to each other. The most defining feature of a Linked List is that each Node references the next Node in the link.
+> - There are two types of Linked List - Singly and Doubly. We will be implementing a Singly Linked List in this implementation.
 
 
-![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--rBoIFi2Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lm1jz3849iiit22dyha9.png)
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--y3j6aJXJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--_PwtVEkJ--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://www.educative.io/api/edpresso/shot/5077575695073280/image/5192456339456000)
 
-## What is Heroku  ?
-> - Heroku is a cloud platform as a service supporting several programming languages.
-> - It's an easy and powerfull way to deploy applications on the cloud and scale it easily. 
-> - lets you deploy, run and manage applications written in Ruby, Node.js, Java, Python, Clojure, Scala and PHP.
-
-
-
+## Why Linked List?
+> - Arrays can be used to store linear data of similar types, but arrays have the following limitations.
+> - The size of the arrays is fixed: So we must know the upper limit on the number of elements in advance. Also, generally, the allocated memory is equal to the upper limit irrespective of the usage.
+> - Inserting a new element in an array of elements is expensive because the room has to be created for the new elements and to create room existing elements have to be shifted.
+> - A linked list is created by using the node class. We create a Node object and create another class to use this ode object. We pass the appropriate values thorugh the node object to point to the next data elements. The below program creates the linked list with three data elements.
 
 
-![Image](https://i.morioh.com/2020/04/28/51847824ff51.jpg)
-
-## Heroku is a polyglot[speaking, many languages.] platform it lets you:
-- build
-- run
-- scale applications in a similar manner across all the languages
-- utilizing the dependencies and Procfile. The Procfile exposes an architectural aspect of your application
-
-
+![Image](https://miro.medium.com/max/1050/1*cUehR5S18XSoVLaPNfNzlA.jpeg)
