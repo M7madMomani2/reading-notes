@@ -1,27 +1,22 @@
-# The Call Stack and Debugging
-![Image](https://hdivsecurity.com/img/security-bugs.jpg)
+# Stacks and Queues
+> A stack is a data structure that consists of Nodes. Each Node references the next Node in the stack, but does not reference its previous.
 
-> - ### A call stack is a mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions — what function is currently being run and what functions are called from within that function, etc.
-> - ### Debugging :- its used to check the running code line by line to get where exactly an error happens.
+![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--XWnztdhd--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cl.ly/d84e17fec485/Image%25202018-09-13%2520at%252012.22.09%2520PM.png)
+
+## **terminology for a stack:**
+
+> - **Push** Nodes or items that are put into the stack are pushed
+> - **Pop** Nodes or items that are removed from the stack are popped. When you attempt to pop an empty stack an exception will be raised.
+> - **Top** This is the top of the stack.
+> - **Peek** When you peek you will view the value of the top Node in the stack. When you attempt to peek an empty stack an exception will be raised.
+> - **IsEmpty** returns true when stack is empty otherwise returns false.
 
 
-## Error Types:-
-> - Reference errors: for not declared vars :- This is as simple as when you try to use a variable that is not yet declared.
-> - Syntax errors: this occurs when you have something that cannot be parsed in terms of syntax, like when you try to parse an invalid object using JSON.parse.
-> - Range eroors: Try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
-> - Type errors: when the types (number, string and so on) you are trying to use or access are incompatible
+## **Stacks follow these concepts:**
+![Image](https://www.marketing91.com/wp-content/uploads/2019/05/LIFO-vs-FIFO-1.jpg)
 
-![Image](https://cdn.educba.com/academy/wp-content/uploads/2019/09/What-is-Debugging.png)
 
-## Handling errors
-> we usually try to catch the errors so we can gracefully fallback to a default state of our application in case of an error (this fallback can be a 404 page which is normally not that graceful but is better than a page to just stop working).
 
-## In summary
+> **FILO** ===>  First In Last Out ===> First Item added to all Last to Pop
 
-> ### The key takeaways from the call stack are:
-> - It is single-threaded. Meaning it can only do one thing at a time.
-> - Code execution is synchronous.
-> - A function invocation creates a stack frame that occupies a temporary memory.
-> - It works as a LIFO — Last In, First Out data structure.
-> - We have used the call stack article to lay the foundation for a series we will be looking at on Asynchronous JavaScript
-
+> **LIFO** ===>  Last In First Out ===> Last Item added First to pop
