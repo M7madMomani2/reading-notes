@@ -84,6 +84,9 @@ Read : 06 | [Random Module](https://m7madmomani2.github.io/reading-notes2/Code-4
 Read : 07 | [Python Scope](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class7)
 Read : 08 | [List Comprehensions](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class8)
 Read : 09 | [Dunder Methods](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class9)
+Read : 10 | [Stacks and Queues](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class10)
+Read : 11 | [](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class11)
+Read : 12 | [](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class12)
 
 
 
