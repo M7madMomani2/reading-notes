@@ -1,31 +1,67 @@
-# FUNCTIONAL PROGRAMMING
-## What is FUNCTIONAL PROGRAMMING ?
-![Image](https://files.realpython.com/media/Interfaces-in-Python_Watermarked.f9ce5bda238c.jpg)
-
-> - is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.
-
-> - In functional programming, functions are treated as first-class citizens, meaning that they can be bound to names (including local identifiers), passed as arguments, and returned from other functions, just as any other data type can. 
-
-> - This allows programs to be written in a declarative and composable style, where small functions are combined in a modular manner.
-
-> - Functional programming is sometimes treated as synonymous with purely functional programming, a subset of functional programming that treats all functions as deterministic mathematical functions, or pure functions. 
-
-> - When a pure function is called with some given arguments, it will always return the same result, and cannot be affected by any mutable state or other side effects. This is in contrast with impure procedures, common in imperative programming, which can have side effects (such as modifying the program's state or taking input from a user). 
-
-> - Proponents of purely functional programming claim that by restricting side effects, programs can have fewer bugs, be easier to debug and test, and be more suited to formal verification.
+# What Are Dunder Methods?
+![Image](https://dev.to/social_previews/article/228181.png)
 
 
-## Pure functions
-> - It returns the same result if given the same arguments (it is also referred as deterministic)
-> - It does not cause any observable side effects
+In Python, special methods are a set of predefined methods you can use to enrich your classes. They are easy to recognize because they start and end with double underscores, 
+- example __init__ or __str__.
 
-### if the function do or read an external file its not a pure function 
-### one of advantage of pure function it's easier to test
+- Dunder methods let you emulate the behavior of built-in types. For example, to get the length of a string you can call len('string'). But an empty class definition doesn’t support this behavior out of the box.
 
-## Scenarios
-> - URL-shortening website
-> - social media website
-> - Return early from functions
-> - Cache variables so functions can be read like sentences
-> - Check for Web APIs before implementing
+- Iteration: __len__, __getitem__, __reversed__
+In order to iterate over our account object I need to add some transactions. So first, I’ll define a simple method to add transactions. I’ll keep it simple because this is just setup code to explain dunder methods, and not a production-ready accounting system:
+
+```
+def add_transaction(self, amount):
+    if not isinstance(amount, int):
+        raise ValueError('please use int for amount')
+    self._transactions.append(amount)
+```
+
+## Callable Python Objects: __call__
+- You can make an object callable like a regular function by adding the __call__ dunder method. For our account class we could print a nice report of all the transactions that make up its balance:
+
+
+```
+class Account:
+    def __call__(self):
+        print('Start amount: {}'.format(self.amount))
+        print('Transactions: ')
+        for transaction in self:
+            print(transaction)
+        print('\nBalance: {}'.format(self.balance))
+```
+
+
+## Enriching a Simple Account Class
+Throughout this article I will enrich a simple Python class with various dunder methods to unlock the following language features:
+
+Initialization of new objects
+Object representation
+Enable iteration
+Operator overloading (comparison)
+Operator overloading (addition)
+Method invocation
+Context manager support (with statement)
+
+
+## What is probability?
+- At the most basic level, probability seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur. The quintessential representation of probability is the humble coin toss. In a coin toss the only events that can happen are:
+
+1) Flipping a heads
+2) Flipping a tails
+
+
+## Three Sigma Rule
+- The Three Sigma rule, also known as the empirical rule or 68-95-99.7 rule, is an expression of how many of our observations fall within a certain distance of the mean. Remember that the standard deviation (a.k.a. “sigma”) is the average distance an observation in the data set is from the mean
+
+
+
+
+## Z-score
+- The Z-score is a simple calculation that answers the question, “Given a data point, how many standard deviations is it away from the mean?
+
+- The equation below is the Z-score equation.
+![Image](https://i.imgur.com/3TuDF4G.jpg)
+
+
 
