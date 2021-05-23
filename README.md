@@ -85,7 +85,7 @@ Read : 07 | [Python Scope](https://m7madmomani2.github.io/reading-notes2/Code-40
 Read : 08 | [List Comprehensions](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class8)
 Read : 09 | [Dunder Methods](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class9)
 Read : 10 | [Stacks and Queues](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class10)
-Read : 11 | [](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class11)
+Read : 11 | [Jupyter & Numpy](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class11)
 Read : 12 | [](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class12)
 
 

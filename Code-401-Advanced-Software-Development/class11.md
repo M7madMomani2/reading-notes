@@ -1,30 +1,59 @@
-# EJS
+# About JupyterLab 
+![image](https://1.bp.blogspot.com/-zEt0bbP0t8Q/X3l4msyi0_I/AAAAAAAFXBI/tA-dGHRfKRkO8cDSiZdwCHrtzlyzC9bVQCLcBGAsYHQ/s1100/lab_logo_tng.png)
+- is a next-generation web-based user interface for Project Jupyter.
 
-![Image](https://www.geeksread.com/wp-content/uploads/2018/06/EJS-Conditionals-and-Loops.png)
-
-## What is EJS?
-> -  What is the "E" for? "Embedded?" Could be. How about "Effective," "Elegant," or just "Easy"? EJS is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript.
-
-
-## EJS advantage:-
-> - Use plain JavaScript.
-> - Fast development time
-> - Simple syntax
-> - Speedy execution
-> - Easy debugging
-> - Active development
-> 
-![Image](https://cdn-images-1.medium.com/fit/t/1600/480/1*erMDckiFM58I-fh2ZA4Lsw.jpeg)
-
-## Tags:-
-> - <% ‘Scriptlet’ tag, for control-flow, no output.
-> - <%_ ‘Whitespace Slurping’ Scriptlet tag, strips all whitespace before it.
-> - <%= Outputs the value into the template (HTML escaped).
-> - <%- Outputs the unescaped value into the template.
-> - <%# Comment tag, no execution, no output.
-> - <%% Outputs a literal '<%'.
-> - %> Plain ending tag.
-> - -%> Trim-mode (‘newline slurp’) tag, trims following newline.
-> - _%> ‘Whitespace Slurping’ ending tag, removes all whitespace after it.
+- JupyterLab enables you to work with documents and activities such as Jupyter notebooks, text editors, terminals, and custom components in a flexible, integrated, and extensible manner.
 
 
+- You can arrange multiple documents and activities side by side in the work area using tabs and splitters. Documents and activities integrate with each other, enabling new workflows for interactive computing, for example:
+
+- Code Consoles provide transient scratchpads for running code interactively
+- Kernel-backed documents enable code in any text file (Markdown, Python, R, LaTeX, etc.) to be run interactively in any Jupyter kernel.
+- Notebook cell outputs can be mirrored into their own tab, side by side with the notebook, enabling simple dashboards with interactive controls backed by a kernel.
+- Multiple views of documents with different editors or viewers enable live editing of documents reflected in other viewers.
+ 
+ 
+
+![image](https://www.edureka.co/blog/wp-content/uploads/2017/07/Python-Numpy_05.gif)
+
+## Numpy Tutorial
+NumPy is a commonly used Python data analysis package. By using NumPy, you can speed up your workflow, and interface with other packages in the Python ecosystem, like scikit-learn, that use NumPy under the hood
+
+
+
+
+## Numpy 2-Dimensional Arrays With NumPy
+1- we work with multidimensional arrays. We’ll dive into all of the possible types of multidimensional arrays later on, but for now, we’ll focus on 2-dimensional arrays. A 2-dimensional array is also known as a matrix, and is something you should be familiar with. In fact, it’s just a different way of thinking about a list of lists. A matrix has rows and columns. By specifying a row number and a column number, we’re able to extract an element from a matrix.
+
+## Creating A NumPy Array
+- We can create a NumPy array using the numpy.array function. If we pass in a list of lists, it will automatically create a NumPy array with the same number of rows and columns. Because we want all of the elements in the array to be float elements for easy computation
+
+- In the below code, we:
+
+### Import the numpy package.
+Pass the list of lists wines into the array function, which converts it into a NumPy array.
+Exclude the header row with list slicing.
+Specify the keyword argument dtype to make sure each element is converted to a float. We’ll dive more into what the dtype is later on.
+
+```
+import csv
+with open("winequality-red.csv", 'r') as f:
+    wines = list(csv.reader(f, delimiter=";"))
+import numpy as np
+wines = np.array(wines[1:], dtype=np.float)
+```
+
+## Using NumPy To Read In Files
+- It’s possible to use NumPy to directly read csv or other files into arrays. We can do this using the numpy.genfromtxt function. We can use it to read in our initial data on red wines.
+
+- In the below code, we:
+
+- Use the genfromtxt function to read in the winequality-red.csv file.
+- Specify the keyword argument delimiter=";" so that the fields are parsed properly.
+- Specify the keyword argument skip_header=1 so that the header row is skipped.
+
+```
+wines = np.genfromtxt("winequality-red.csv", delimiter=";", skip_header=1)
+```
+
+                                        
