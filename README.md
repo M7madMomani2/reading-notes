@@ -87,6 +87,8 @@ Read : 09 | [Dunder Methods](https://m7madmomani2.github.io/reading-notes2/Code-
 Read : 10 | [Stacks and Queues](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class10)
 Read : 11 | [Jupyter & Numpy](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class11)
 Read : 12 | [Pandas](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class12)
+Read : 13 | [Linear Regressions](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class13)
+Read : 14 | [Data Visualization](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class14)
 
 
 

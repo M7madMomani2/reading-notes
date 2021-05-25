@@ -1,28 +1,37 @@
-# SENDING FORM DATA
+# About Linear Regression
+![image](https://cdn.educba.com/academy/wp-content/uploads/2020/04/What-is-Linear-Regression.jpg)
 
-![Image](https://res.cloudinary.com/practicaldev/image/fetch/s--T2rAtHXL--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b7eo508eo6bq4mdf4xuw.png)
+- linear regression is a popular technique and you might as well seen the mathematical equation of linear regression.
 
-
-> - Once the form data has been validated on the client-side, it is okay to submit the form. And, since we covered validation in the previous article, we're ready to submit! This article looks at what happens when a user submits a form — where does the data go, and how do we handle it when it gets there? We also look at some of the security concerns associated with sending form data. Client/server architecture
-> - An HTML form on a web page is nothing more than a convenient user-friendly way to configure an HTTP request to send data to a server.
-
-> - The <form> element defines how the data will be sent. All of its attributes are designed to let you configure the request to be sent when a user hits a submit button.
-
-> - The HTTP protocol provides several ways to perform a request; HTML form data can be transmitted via a number of different methods, the most common being the GET method and the POST method.
-
-> - The GET method is the method used by the browser to ask the server to send back a given resource.
-
-> - The POST method It’s the method the browser uses to talk to the server when asking for a response that takes into account the data provided in the body of the HTTP request.
-
-> - Whichever HTTP method you choose, the server receives a string that will be parsed in order to get the data as a list of key/value pairs.
-> - Sending files with HTML forms is a special case.
-
-> - Files are binary data — or considered as such — whereas all other data is text data.
-
-> - Because HTTP is a text protocol, there are special requirements for handling binary data.
-
-> - This attribute lets you specify the value of the Content-Type HTTP header included in the request generated when the form is submitted.
-
-> - This header is very important because it tells the server what kind of data is being sent. By default, its value is application/x-www-form-urlencoded.
+- There are several ways in which you can do that, you can do linear regression using numpy, scipy, stats model and sckit learn
 
 
+## Scikit-learn 
+- is a powerful Python module for machine learning. It contains function for regression, classification, clustering, model selection and dimensionality reduction.
+
+
+- If you want to look inside the linear regression object, you can do so by typing LinearRegression. and the press <tab> key. This will give a list of functions available inside linear regression object.
+
+
+
+## Important functions while fitting a linear regression model are:
+
+1) lm.fit() -> fits a linear model
+
+2) lm.predict() -> Predict Y using the linear model with estimated coefficients
+
+3) lm.score() -> Returns the coefficient of determination (R^2). A measure of how well observed outcomes are replicated by the model, as the proportion of total variation of outcomes explained by the model.
+
+## Residual Plots
+- Residual plots are a good way to visualize the errors in your data. If you have done a good job then your data should be randomly scattered around line zero. If you see structure in your data, that means your model is not capturing some thing.
+
+![image](https://d2mvzyuse3lwjc.cloudfront.net/doc/en/UserGuide/images/Graphic_Residual_Analysis/Graphic_Residual_Analysis-3.jpg?v=10730)
+
+## More about Linear Regression type
+Simple linear regression 1 dependent variable (interval or ratio), 1 independent variable (interval or ratio or dichotomous)
+
+- Multiple linear regression 1 dependent variable (interval or ratio) , 2+ independent variables (interval or ratio or dichotomous)
+
+- Logistic regression 1 dependent variable (dichotomous), 2+ independent variable(s) (interval or ratio or dichotomous)
+
+- Ordinal regression 1 dependent variable (ordinal), 1+ independent variable(s) (nominal or dichotomous)
