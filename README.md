@@ -91,6 +91,8 @@ Read : 13 | [Linear Regressions](https://m7madmomani2.github.io/reading-notes2/C
 Read : 14 | [Data Visualization](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class14)
 Read : 15 | [Tree](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class15)
 Read : 16 | [Machine Learning](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class16)
+Read : 17 | [Web Scraping](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class17)
+Read : 18 | [ ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class18)
 
 
 
