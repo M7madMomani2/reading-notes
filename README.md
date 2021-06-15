@@ -97,10 +97,12 @@ Read : 19 | [Regular Expressions ](https://m7madmomani2.github.io/reading-notes2
 Read : 21 | [Djando ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class26)
 Read : 22 | [Django Tutorial ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class27)
 Read : 23 | [Django Forms ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class28)
+Read : 24 | [Django Custom User ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class29)
 
 
 
 
+[Django sheet ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class22)
 
 Do you like my page 😉
 - [x] I Like It!😍
