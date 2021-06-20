@@ -100,6 +100,7 @@ Read : 23 | [Django Forms ](https://m7madmomani2.github.io/reading-notes2/Code-4
 Read : 24 | [Django Custom User ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class29)
 Read : 25 | [Hash ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class30)
 Read : 26 | [REST Framework & Docker ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class31)
+Read : 27 | [Drf Permission ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class32)
 
 
 
