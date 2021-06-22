@@ -94,6 +94,7 @@ Read : 16 | [Machine Learning](https://m7madmomani2.github.io/reading-notes2/Cod
 Read : 17 | [Web Scraping](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class17)
 Read : 18 | [Cryptography ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class18)
 Read : 19 | [Regular Expressions ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class19)
+Read : 20 |[Django sheet ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class22)
 Read : 21 | [Djando ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class26)
 Read : 22 | [Django Tutorial ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class27)
 Read : 23 | [Django Forms ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class28)
