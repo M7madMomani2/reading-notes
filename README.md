@@ -102,7 +102,7 @@ Read : 25 | [Hash ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advan
 Read : 26 | [REST Framework & Docker ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class31)
 Read : 27 | [Drf Permission ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class32)
 Read : 28 | [Authentication & Production Server](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class33)
-
+Read : 29 | [SSH](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class34)
 
 
 
