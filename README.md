@@ -105,7 +105,11 @@ Read : 27 | [Drf Permission ](https://m7madmomani2.github.io/reading-notes2/Code
 Read : 28 | [Authentication & Production Server](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class33)
 Read : 29 | [SSH](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class34)
 Read : 30 | [Graphs Algorithms](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class35)
+<<<<<<< HEAD
 Read : 31 | [React](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class36)
+=======
+Read : 31 | [Whiteboard Interview](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class36)
+>>>>>>> 16cbec78d1db022b8fc0b714c818bfdeaa2909ce
 
 
 [Django sheet ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class22)
