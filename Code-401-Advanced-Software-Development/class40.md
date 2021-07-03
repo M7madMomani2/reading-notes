@@ -1,37 +1,30 @@
-# Create a Next.js App
-- To build a complete web application with React from scratch, there are many important details you need to consider:
-
-- Code has to be bundled using a bundler like webpack and transformed using a compiler like Babel.
-You need to do production optimizations such as code splitting.
-You might want to statically pre-render some pages for performance and SEO. You might also want to use server-side rendering or client-side rendering.
-You might have to write some server-side code to connect your React app to your data store.
-A framework can solve these problems. But such a framework must have the right level of abstraction — otherwise it won’t be very useful. It also needs to have great "Developer Experience", ensuring you and your team have an amazing experience while writing code.
+# Next.js Dynamic Routes
+![](https://www.ibrahima-ndaw.com/static/2a7d1a1ce97e766a9dacfbe05232f6af/6db29/cover.png)
 
 
-<img src="https://miro.medium.com/max/966/1*OA9c8CovXaqjwbzi_qYKsA.jpeg" width="900px" height="400px">
+- Defining routes by using predefined paths is not always enough for complex applications.
 
-## Next.js: The React Framework
-Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.
+- In Next.js you can add brackets to a page ([param]) to create a dynamic route (a.k.a. url slugs, pretty urls, and others).
 
-- Next.js has the best-in-class "Developer Experience" and many built-in features; a sample of them are:
+- Page: pages/post/[pid].js:
+```
+import { useRouter } from 'next/router'
+const Post = () => {
+const router = useRouter()
+const { pid } = router.query
+return <p>Post: {pid}</p>
+}
+```
+- Any route like /post/1, /post/abc, etc. will be matched by pages/post/[pid].js.
 
-An intuitive page-based routing system (with support for dynamic routes)
-Pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis
-Automatic code splitting for faster page loads
-Client-side routing with optimized prefetching
-Built-in CSS and Sass support, and support for any CSS-in-JS library
-Development environment with Fast Refresh support
-API routes to build API endpoints with Serverless Functions
+- The matched path parameter will be sent as a query parameter to the page, and it will be merged with the other query parameters.
 
-## Fully extendable
-Next.js is used in tens of thousands of production-facing websites and web applications, including many of the world's largest brands.
 
-This tutorial assumes basic knowledge of JavaScript and React. If you’ve never written React code, you should go through the official React tutorial first.
-
-If you’re looking for documentation instead, visit the Next.js documentation.
-
-## Editing the Page
-Make sure the Next.js development server is still running.
-Open pages/index.js with your text editor.
-Find the text that says “Welcome to” under the tag and change it to “Learn”.
-Save the file.
+## Deploying Your Next.js App
+- > The easiest way to deploy Next.js to production is to use the Vercel platform developed by the creators of Next.js. Vercel is an all-in-one platform with Global CDN supporting static & JAMstack deployment and Serverless Functions. We believe Vercel is the optimal place to deploy Next.js apps.
+- > You can use default values for the following settings — no need to change anything —. Vercel automatically detects that you have a Next.js app and chooses optimal build settings for you:
+    - Project Name
+    - Root Directory
+    - Build Command
+    - Output Directory
+    - Development Command
