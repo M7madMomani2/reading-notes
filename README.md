@@ -111,6 +111,7 @@ Read : 33 | [React](https://m7madmomani2.github.io/reading-notes2/Code-401-Advan
 Read : 33 | [NEXT.JS](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class39)
 Read : 34 | [React 4](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class40)
 Read : 35 | [Pythonisms](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class41)
+Read : 36 | [Ethics ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class42)
 
 
 [Django sheet ](https://m7madmomani2.github.io/reading-notes2/Code-401-Advanced-Software-Development/class22)
