@@ -1,37 +1,37 @@
-# Create a Next.js App
-- To build a complete web application with React from scratch, there are many important details you need to consider:
+# Pythonisms 
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Python-Iterators-and-Generators.jpg" >
 
-- Code has to be bundled using a bundler like webpack and transformed using a compiler like Babel.
-You need to do production optimizations such as code splitting.
-You might want to statically pre-render some pages for performance and SEO. You might also want to use server-side rendering or client-side rendering.
-You might have to write some server-side code to connect your React app to your data store.
-A framework can solve these problems. But such a framework must have the right level of abstraction — otherwise it won’t be very useful. It also needs to have great "Developer Experience", ensuring you and your team have an amazing experience while writing code.
+## Dunder Methods
+- In Python, special methods are a set of predefined methods you can use to enrich your classes.
+
+- They are easy to recognize because they start and end with double underscores, for example __init__ or __str__.
+
+- As it quickly became tiresome to say under-under-method-under-under Pythonistas adopted the term “dunder methods”, a short form of “double under.”
+
+- These “dunders” or “special methods” in Python are also sometimes called “magic methods.” But using this terminology can make them seem more complicated than they really are—at the end of the day there’s nothing “magical” about them. You should treat these methods like a normal language feature.
 
 
-<img src="https://miro.medium.com/max/966/1*OA9c8CovXaqjwbzi_qYKsA.jpeg" width="900px" height="400px">
+## Iterators
+- The two dunder methods __iter__ and __next__, are the key to making a Python object iterable.
+- On more abstract terms, iterators provide a common interface that allows you to process every element of a container while being completely isolated from the container’s internal structure.
 
-## Next.js: The React Framework
-Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.
+- Whether you’re dealing with a list of elements, a dictionary, an infinite sequence or another sequence type—all of that is just an implementation detail. Every single one of these objects can be traversed in the same way by the power of iterators.
 
-- Next.js has the best-in-class "Developer Experience" and many built-in features; a sample of them are:
+- Objects that support the __iter__ and __next__ dunder methods automatically work with for-in loops.
+![](https://files.realpython.com/media/Python-Generators-and-the-Yield-Keyword_Watermarked.5380262149de.jpg)
 
-An intuitive page-based routing system (with support for dynamic routes)
-Pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis
-Automatic code splitting for faster page loads
-Client-side routing with optimized prefetching
-Built-in CSS and Sass support, and support for any CSS-in-JS library
-Development environment with Fast Refresh support
-API routes to build API endpoints with Serverless Functions
 
-## Fully extendable
-Next.js is used in tens of thousands of production-facing websites and web applications, including many of the world's largest brands.
 
-This tutorial assumes basic knowledge of JavaScript and React. If you’ve never written React code, you should go through the official React tutorial first.
+## Generators
 
-If you’re looking for documentation instead, visit the Next.js documentation.
+- Generators are a tricky subject in Python. With this tutorial you’ll make the leap from class-based iterators to using generator functions and the “yield” statement in no time.
 
-## Editing the Page
-Make sure the Next.js development server is still running.
-Open pages/index.js with your text editor.
-Find the text that says “Welcome to” under the tag and change it to “Learn”.
-Save the file.
+
+- If you’ve ever implemented a class-based iterator from scratch in Python, you know that this endeavour requires writing quite a bit of boilerplate code.
+
+- And yet, iterators are so useful in Python: They allow you to write pretty for-in loops and help you make your code more Pythonic and efficient.
+
+- As a (proud) “lazy” Python developer, I don’t like tedious and repetitive work. And so, I often found myself wondering:
+
+
+
